@@ -18,7 +18,7 @@ titles:
 key: page-about
 ---
 
-## Me
+## About me
 
 Welcome to my blog!
 
