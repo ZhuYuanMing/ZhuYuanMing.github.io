@@ -1,5 +1,5 @@
 header:
-    - titles:
+  - titles:
       en      : &EN      Home 
       en-GB   : *EN
       en-US   : *EN
@@ -16,7 +16,7 @@ header:
       ko-KR   : *KO
     url: https://ZhuYuanMing.github.io
 
-    - titles:
+  - titles:
       en      : &EN       Archive
       en-GB   : *EN
       en-US   : *EN
@@ -33,7 +33,7 @@ header:
       ko-KR   : *KO
     url: /archive.html
 
-    - titles:
+  - titles:
       en      : &EN       About
       en-GB   : *EN
       en-US   : *EN
