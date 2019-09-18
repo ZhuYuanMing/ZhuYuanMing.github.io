@@ -25,7 +25,7 @@ tags: Gvisor, Docker
 - When inputing 'Docker run hello-world', you may find the warning following.
 
 
-   <center>![图片](./screenshots/docker.png)</center>
+![](./screenshots/docker.png)
    <center>warning.png</center>
 
    you can use these codes to avoid adding sudo each time.
@@ -35,7 +35,7 @@ tags: Gvisor, Docker
  sudo chmod 666 /vsr/run/docker.sock
 ```
 **the final result show**
-   <center>![图片](./screenshots/docker2.png)</center>
+![](./screenshots/docker2.png)
    <center>result.png</center>
 
 
