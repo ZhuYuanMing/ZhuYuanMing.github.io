@@ -1,3 +1,7 @@
+---
+title: Gvisor Freshman 
+tags: Gvisor, Docker
+---
 # The BackGround of the resource of Gvisor
 
 ## Two Important Weaknesses of Tranditional Container 
@@ -21,7 +25,7 @@
 - When inputing 'Docker run hello-world', you may find the warning following.
 
 
-   <center>![图片](../screenshots/docker.png "file")</center>
+   <center>![图片](https://raw.githubusercontent.com/ZhuYuanMing/ZhuYuanMing.github.io/master/screenshots/docker.png)</center>
    <center>warning.png</center>
 
    you can use these codes to avoid adding sudo each time.
@@ -31,14 +35,10 @@
  sudo chmod 666 /vsr/run/docker.sock
 ```
 **the final result show**
-   <center>![图片](../screenshots/docker2.png "file")</center>
+   <center>![图片](https://raw.githubusercontent.com/ZhuYuanMing/ZhuYuanMing.github.io/master/screenshots/docker2.png)</center>
    <center>result.png</center>
 
 
-
-
-
-## 
 
 
 
