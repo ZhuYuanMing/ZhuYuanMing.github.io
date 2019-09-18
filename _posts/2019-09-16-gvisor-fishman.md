@@ -34,8 +34,9 @@ tags: Gvisor, Docker
  sudo usermod -aG docker $USER
  sudo chmod 666 /vsr/run/docker.sock
 ```
+
 **the final result show**
-![](./screenshots/docker2.png)
+![](https://raw.githubusercontent.com/ZhuYuanMing/ZhuYuanMing.github.io/master/_posts/screenshots/docker2.png)
    <center>result.png</center>
 
 
