@@ -25,7 +25,7 @@ tags: Gvisor, Docker
 - When inputing 'Docker run hello-world', you may find the warning following.
 
 
-![](./screenshots/docker.png)
+![](https://raw.githubusercontent.com/ZhuYuanMing/ZhuYuanMing.github.io/master/_posts/screenshots/docker.png)
    <center>warning.png</center>
 
    you can use these codes to avoid adding sudo each time.
