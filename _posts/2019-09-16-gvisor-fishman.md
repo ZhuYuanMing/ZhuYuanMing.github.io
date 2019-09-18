@@ -21,7 +21,7 @@
 - When inputing 'Docker run hello-world', you may find the warning following.
 
 
-   <center>![图片](/home/zhuyuanming/Pictures/docker.png "file")</center>
+   <center>![图片](../screenshots/docker.png "file")</center>
    <center>warning.png</center>
 
    you can use these codes to avoid adding sudo each time.
@@ -31,7 +31,7 @@
  sudo chmod 666 /vsr/run/docker.sock
 ```
 **the final result show**
-   <center>![图片](/home/zhuyuanming/Pictures/docker2.png "file")</center>
+   <center>![图片](../screenshots/docker2.png "file")</center>
    <center>result.png</center>
 
 
